@@ -57,9 +57,9 @@ kabadiwala-connect/
 Issues and pull requests are welcome. Please open an issue first to discuss major changes.
 
 ## Author
-Shubham Sharma
-Sachin Choudhary
-Pooja Mehra
-Siddhant Mishra
-Ragini
-Yashika Shirvastav
+• Shubham Sharma
+• Sachin Choudhary
+• Pooja Mehra
+• Siddhant Mishra
+• Ragini
+• Yashika Shirvastav
