@@ -2,8 +2,6 @@
 
 A mobile-first, multilingual (English / हिन्दी / मराठी) prototype that connects informal e-waste collectors (*kabadiwalas*) with certified recyclers. Collectors log a lot of e-waste with a photo, get an instant price estimate, and hand it over to a verified recycler, with a tamper-evident handover record at every step.
 
-> **Live demo:** `https://shubham-5107.github.io/kabadiwala-connect/` (after enabling GitHub Pages — see below)
-
 ## Features
 
 - **Collector app:** photo capture, material category, weight and condition, instant price estimate
@@ -32,15 +30,6 @@ cd kabadiwala-connect
 # just open index.html in a browser, or serve it:
 python3 -m http.server 8000   # then visit http://localhost:8000
 ```
-
-## Deploy with GitHub Pages
-
-**Option A — automatic (included workflow):**
-1. Push the repo to GitHub.
-2. Go to **Settings → Pages** and set **Source** to **GitHub Actions**.
-3. Each push to `main` deploys the site.
-
-**Option B — manual:** Settings → Pages → Source: *Deploy from a branch* → `main` / `(root)`.
 
 ## Project structure
 
