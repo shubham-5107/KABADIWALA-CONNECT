@@ -50,8 +50,10 @@ kabadiwala-connect/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── .nojekyll
-└── .github/workflows/pages.yml # GitHub Pages deployment
+├── RESOURCES
+    ├── Monitors.jpg
+    ├──pcb.jpg
+    
 ```
 
 ## Prototype limitations
